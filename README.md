@@ -13,6 +13,7 @@ Efficiency: Containers share the host OS kernel, making them much lighter than v
 Scalability: Easy to scale applications up or down
 Here’s a concise breakdown of the requirements into GitHub stories:
 
+requirements
 1. Set Up Java Environment
 Ensure JDK 22/23 is installed and verify HelloWorld.java compiles locally. The app should print "Hello, Docker and Java!" when run.
 
